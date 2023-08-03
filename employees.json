@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "position": "Software Engineer",
+      "salary": 75000,
+      "isManager": false,
+      "skills": ["JavaScript", "React", "Node.js"],
+      "address": {
+        "city": "Digby",
+        "postalcode": "B0V1A0"
+      }
+    },
+    {
+      "name": "Nick Quilty",
+      "age": 28,
+      "position": "UI/UX Designer",
+      "salary": 65000,
+      "isManager": true,
+      "skills": ["UI Design", "Adobe XD", "Sketch"],
+      "address": {
+        "city": "San Francisco",
+        "postalcode": "94105"
+      }
+    },
+    {
+      "name": "Vanessa Rice",
+      "age": 35,
+      "position": "Project Manager",
+      "salary": 85000,
+      "isManager": true,
+      "skills": ["Project Management", "Agile", "Communication"],
+      "address": {
+        "city": "Calgary",
+        "postalcode": "T2A4S1"
+      }
+    },
+    {
+      "name": "Alice Williams",
+      "age": 27,
+      "position": "Frontend Developer",
+      "salary": 70000,
+      "isManager": false,
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "address": {
+        "city": "St. John's",
+        "postalcode": "A1B4P8"
+      }
+    },
+    {
+      "name": "Michael Robbins",
+      "age": 32,
+      "position": "Backend Developer",
+      "salary": 80000,
+      "isManager": false,
+      "skills": ["Java", "Spring", "SQL"],
+      "address": {
+        "city": "Seattle",
+        "postalcode": "98101"
+      }
+    }
+  ]
+  
