@@ -58,6 +58,18 @@
         "city": "Seattle",
         "postalcode": "98101"
       }
+    },
+    {
+      "name": "Jane Doe",
+      "age": 46,
+      "position": "Account Manager",
+      "salary": 81000,
+      "isManager": true,
+      "skills": ["Payroll, Accounts Receivable, Accounts Payable"],
+      "address": {
+        "city": "Seattle",
+        "postalcode": "98101"
+      }
     }
   ]
   
